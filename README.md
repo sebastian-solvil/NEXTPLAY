@@ -1,6 +1,6 @@
 # *¡BIENVENIDO A NEXTPLAY!*
 
-Hola, soy Sebastián. Gracias por visitar este proyecto que representa una de mis mayores pasiones: combinar datos, contexto y experiencia humana para crear sistemas de recomendación verdaderamente inteligentes. Aquí te presento la visión y propósito detrás de NEXTPLAY.
+Hola, soy Sebastián Solis. Gracias por visitar este proyecto que representa una de mis mayores pasiones: combinar datos, contexto y experiencia humana para crear sistemas de recomendación verdaderamente inteligentes. Aquí te presento la visión y propósito detrás de NEXTPLAY.
 
 ----
 
@@ -56,5 +56,5 @@ Puedes encontrarme en GitHub o en mis otras redes.
 
 ---
 <div style="text-align: center;">
-    <img src="https://i0.wp.com/webadictos.com/media/2013/05/gif-animados-videojuegos.gif?resize=720%2C302" alt="GIF de videojuegos" width="700" height="500" />
+    <img src="https://i0.wp.com/webadictos.com/media/2013/05/gif-animados-videojuegos.gif?resize=720%2C302" alt="GIF de videojuegos" width="1100" height="500" />
 </div>

@@ -1,14 +1,10 @@
-# NEXTPLAY
-
-----
-
-## ¡BIENVENIDO A NEXTPLAY!
+# *¡BIENVENIDO A NEXTPLAY!*
 
 Hola, soy Sebastián. Gracias por visitar este proyecto que representa una de mis mayores pasiones: combinar datos, contexto y experiencia humana para crear sistemas de recomendación verdaderamente inteligentes. Aquí te presento la visión y propósito detrás de NEXTPLAY.
 
 ----
 
-## PLANTEAMIENTO DEL PROBLEMA
+## *PLANTEAMIENTO DEL PROBLEMA*
 
 A lo largo de los últimos años he observado cómo la industria de los videojuegos ha crecido de forma impresionante, generando un catálogo enorme distribuido entre plataformas como Steam, Epic Games Store, PlayStation Store y Xbox Game Pass.
 
@@ -18,9 +14,13 @@ Creo firmemente que los jugadores no eligen qué jugar solo por etiquetas o gén
 
 Como resultado, muchos usuarios terminan invirtiendo más tiempo buscando qué jugar que disfrutando realmente del juego.
 
+<div style="text-align: center;">
+    <img src="https://i.gifer.com/ZJF5.gif" alt="GIF decorativo" width="500" />
+</div>
+
 ---
 
-## OPORTUNIDAD DE NEGOCIO
+## *OPORTUNIDAD DE NEGOCIO*
 
 Aquí es donde veo una oportunidad clara y poderosa.
 
@@ -33,11 +33,11 @@ Mi visión es construir un modelo que:
 - Aumente su satisfacción, engagement y descubrimiento de nuevos títulos.  
 - Aporte valor a plataformas y estudios mediante insights más profundos sobre su audiencia.
 
-En este punto nace el lema de este proyecto: **"RECOMENDACIONES INTELIGENTES AL SERVICIO DEL JUGADOR"**
+En este punto nace el lema de este proyecto: ***"RECOMENDACIONES INTELIGENTES AL SERVICIO DEL JUGADOR"***
 
 ---
 
-## USUARIO FINAL
+## *USUARIO FINAL*
 
 Este proyecto está pensado para:
 
@@ -47,14 +47,14 @@ Este proyecto está pensado para:
 
 ---
 
-## CONTACTO
+## *CONTACTO*
 
 Si deseas saber más, tienes sugerencias o simplemente quieres contactar para intercambiar ideas y colaborar, estaré encantado de escucharte.  
 Puedes encontrarme en GitHub o en mis otras redes.
 
-**¡Gracias por tu interés en NEXTPLAY! Me emociona seguir construyendo este proyecto y conectar contigo pronto.**
+***¡Gracias por tu interés en NEXTPLAY! Me emociona seguir construyendo este proyecto y conectar contigo pronto.***
 
 ---
 <div style="text-align: center;">
-    <img src="https://i0.wp.com/webadictos.com/media/2013/05/gif-animados-videojuegos.gif?resize=720%2C302" alt="GIF de videojuegos" width="700" height="400" />
+    <img src="https://i0.wp.com/webadictos.com/media/2013/05/gif-animados-videojuegos.gif?resize=720%2C302" alt="GIF de videojuegos" width="700" height="500" />
 </div>
